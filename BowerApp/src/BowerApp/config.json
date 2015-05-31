@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "BowerApp"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-BowerApp-0e72247a-a918-4b7c-86fc-5e874beea102;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
