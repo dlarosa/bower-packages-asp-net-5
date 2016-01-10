@@ -1,5 +1,4 @@
-
-Bower Packages in ASP.NET 5
+# Bower Packages in ASP.NET 5
 
 [Bower](http://bower.io/) is a Node.js tool to manage front-end dependencies. It's a package manager just like NuGet, but for front-end libraries. With this tool, we can add things like jQuery, Angular or Bootstrap to our project. 
 
