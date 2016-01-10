@@ -18,7 +18,7 @@ The output should indicate that we just opened the interactive node.js shell, fr
 
 
 <p align="center">
-  <img width="60%" src="/images/0.PNG?raw=true" alt=""/>
+  <img width="60%" src="https://raw.githubusercontent.com/dlarosa/bower-packages-asp-net-5/master/images/0.PNG?raw=true" alt=""/>
  </p>
 
 If for any reason, we get a _"node is not recognized as an internal or an external command"_ , make sure Node is added to the Windows PATH environment variable. 
@@ -47,7 +47,7 @@ The bower.json file is the Bower manifest file, from which we can track all the 
 We can add a bower.json file to our project very easily from Visual Studio. From the Solution Explorer, right-click on the project -> Add ->  Bower JSON Configuration File
 
 <p align="center">
-  <img width="60%" src="/images/2.PNG?raw=true" alt=""/>
+  <img width="60%" src="https://raw.githubusercontent.com/dlarosa/bower-packages-asp-net-5/master/images/2.PNG?raw=true" alt=""/>
  </p>
 
 Now that the bower.json file is part of our project, let’s add the AngularJs library. To do this, create a new entry under the dependencies section of the bower.json file. This entry will contain the name and the version of the package we want to add.
@@ -119,7 +119,7 @@ This is a very useful feature because it removes the need of including the depen
 We can also view the Bower dependencies included in our project from the Solution Explorer. They are listed under Dependencies -> Bower
 
  <p align="center">
-  <img  width="30%" src="/images/7.PNG?raw=true" alt=""/>
+  <img  width="30%" src="https://raw.githubusercontent.com/dlarosa/bower-packages-asp-net-5/master/images/7.PNG?raw=true" alt=""/>
  </p>
 
 
@@ -132,7 +132,7 @@ Or even from the Command Prompt just by typing in the following command:
 Finally, if what we want is to access the physical files of our Bower packages we should go to the bower-component folder, at the root of our project. This is the place where Bower dependencies are placed by default.
 
 <p align="center">
-  <img width="60%" src="/images/8.PNG?raw=true" alt=""/>
+  <img width="60%" src="https://raw.githubusercontent.com/dlarosa/bower-packages-asp-net-5/master/images/8.PNG?raw=true" alt=""/>
  </p>
 
 
